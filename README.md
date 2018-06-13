@@ -1,4 +1,5 @@
-# Tensorflow implementation of TGRS paper ```Oil Spill Segmentation via Adversarial f-Divergence Learning```
+# Tensorflow implementation of TGRS paper ```[Oil Spill Segmentation via Adversarial f-Divergence Learning](https://ieeexplore.ieee.org/document/8301576/).```
+
 We fetch lots of code from https://github.com/affinelayer/pix2pix-tensorflow. Thanks for their excellent project.
 
 ## Requirement
